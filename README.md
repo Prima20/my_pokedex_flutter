@@ -4,7 +4,7 @@ A Pokedex app created with flutter, for improving my code skill.
 
 ## Getting Started
 
-<img src="./image/preview.jpg" height=100 weight=50/>
+<img src="./image/preview.jpg" height=200 weight=100/>
 
 This project is a starting point for a Flutter application.
 
